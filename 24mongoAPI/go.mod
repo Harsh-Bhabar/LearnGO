@@ -1,4 +1,4 @@
-module mongoApi
+module mongoApis
 
 go 1.21.1
 
@@ -16,5 +16,3 @@ require (
 	golang.org/x/sync v0.0.0-20220722155255-886fb9371eb4 // indirect
 	golang.org/x/text v0.7.0 // indirect
 )
-
-// mongodb+srv://user:<password>@cluster0.tzw5ea6.mongodb.net/?retryWrites=true&w=majority
